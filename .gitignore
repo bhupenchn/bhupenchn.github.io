@@ -5,7 +5,6 @@ gulpfile.js
 package.json
 _site
 src
-vendor
 CNAME
 LICENSE
 Rakefile
